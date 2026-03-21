@@ -1,0 +1,48 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+.jupyter_runtime/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Build/package artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local analysis artifacts (not for publishing)
+readme_assets/_execution_report.txt
+readme_assets/_notebook_scan.txt
+
+# Local documentation notes
+EXPLANATION.md
