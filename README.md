@@ -53,19 +53,16 @@ Using thresholds (`skill_percent > 5` and `skill_count >= 8`) to keep the plot r
 ## Selected Visualizations
 
 ### Market and Role Demand
-![Global Job Postings by Job Title](readme_assets/1_EDA_Intro_AU_plot_1.png)
+![Australia Job Postings by Data Role (2023)](readme_assets/role_demand_au.png)
 
 ### Skill Demand by Role
-![Skill Share in Australia Job Postings](readme_assets/2_Skill_Demand_AU_plot_2.png)
+![Top Skill Share by Role in Australia (2023)](readme_assets/skill_share_by_role_au.png)
 
 ### Skill Trends Over Time
-![Monthly Skill Demand for Data Roles in Australia (%)](readme_assets/3_Skills_Trend_AU_plot_2.png)
-
-### Salary Distribution by Role
-![Salary Distribution by Job Title in Australia](readme_assets/4_Salary_Analysis_AU_plot_1.png)
+![Monthly Skill Demand for Data Roles in Australia (%)](readme_assets/monthly_skill_trend_au.png)
 
 ### Optimal Skills: Demand vs Salary
-![Most Optimal Skills for Data Roles in Australia by Technology](readme_assets/5_Optimal_Skills_AU_plot_2.png)
+![Most Optimal Skills for Data Roles in Australia by Technology](readme_assets/optimal_skills_au.png)
 
 ## Tech Stack
 
